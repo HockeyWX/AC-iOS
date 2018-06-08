@@ -36,6 +36,8 @@
     //Hello
     //Hi
     
+    NSLog(@"Hello!");
+    
     return YES;
 }
 
